@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+env/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Config
+config/config.json
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Others
+*.sqlite3
+*.db
+
+# Ignore requirements.txt backup
+requirements*.bak
