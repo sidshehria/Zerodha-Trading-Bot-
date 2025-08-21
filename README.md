@@ -1,6 +1,6 @@
 add a config folder and add a config.json file in same as given below also you can add strategies according to yourself.
 
-'''
+```
 {
     "api_key": "your_api_key_here",
     "api_secret": "your_api_secret_here",
@@ -12,4 +12,6 @@ add a config folder and add a config.json file in same as given below also you c
     "squareoff_time" : "15:25",
     "watchlist": ["IDEA", "SUZLON", "YESBANK", "JPPOWER"]
 }
-'''
+
+```
+
